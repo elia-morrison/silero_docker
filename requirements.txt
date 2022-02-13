@@ -1,0 +1,4 @@
+torch==1.9.0
+torchaudio
+pysndfx>=0.3.6
+sox
